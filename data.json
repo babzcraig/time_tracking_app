@@ -2,15 +2,8 @@
     {
         "title": "Mow the lawn",
         "project": "House Chores",
-        "elapsed": 5457815,
+        "elapsed": 5465007,
         "id": "0a4a79cb-b06d-4cb1-883d-549a1e3b66d7",
-        "runningSince": null
-    },
-    {
-        "title": "Clear paper jama",
-        "project": "Office Chores",
-        "elapsed": 1312439,
-        "id": "a73c1d19-f32d-4aff-b470-cea4e792406a",
         "runningSince": null
     },
     {
@@ -25,6 +18,13 @@
         "project": "Full Stack React",
         "id": "83a237a7-ee71-47a3-9c96-d175b9989e55",
         "elapsed": 49588,
+        "runningSince": null
+    },
+    {
+        "title": "New Project",
+        "project": "New",
+        "id": "02c9614f-7ca1-4deb-b4e2-0b5a15da41f7",
+        "elapsed": 7690,
         "runningSince": null
     }
 ]
